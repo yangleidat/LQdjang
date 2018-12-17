@@ -1,1 +1,1 @@
-# 学习《跟老齐学Python-Django实战》项目
+# mysite 是学习《跟老齐学Python-Django实战》的项目
